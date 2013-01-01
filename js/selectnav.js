@@ -1,7 +1,7 @@
 /*
 	JavaScript Dynamic Select Navigation v1.0.0
 	by Todd Motto: http://www.toddmotto.com
-	Latest version: https://github.com/toddmotto/js-select-nav
+	Latest version: https://github.com/toddmotto/selectnav
 	
 	Copyright 2012 Todd Motto
 	Licensed under the MIT license
