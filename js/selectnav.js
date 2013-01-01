@@ -15,6 +15,7 @@ function selectnav() {
 	var first = document.createElement('option');
 
 	first.innerHTML = 'Navigation';
+	first.setAttribute('selected', 'selected');
 	select.setAttribute('id', 'mobile');
 	select.appendChild(first);
 
